@@ -1,0 +1,10 @@
+[
+  {
+    "appName": "app-daily",
+    "appUrl": "http://localhost:8080",
+    "appType": 1,
+    "owner": [12345678901],
+    "ignore": [404],
+    "rely": ["ABC"]
+  }
+]
